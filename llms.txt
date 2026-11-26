@@ -1,0 +1,21 @@
+# Garage2Home (G2H)
+
+> Garage2Home (G2H), run by Garage2Home LLP, is a startup based in Bareilly, Uttar Pradesh, India, bringing mobility to garage services. It brings essential garage services to the customer's doorstep: home, workplace or farm. Launching soon.
+
+- Website: https://garage2home.in/
+- Contact: support@garage2home.in
+- Tagline: Your garage, at your doorstep.
+
+## Pages
+- [Home](https://garage2home.in/): launch announcement and contact
+- [About Us](https://garage2home.in/about-us/): who we are, what we do, the problem we solve, what is innovative, how we are different
+
+## Services
+- Windshield replacement
+- Battery replacement
+- Wiper replacement
+- Headlight restoration
+- New headlight fitting
+
+## How G2H is different
+G2H drives the garage to the customer's doorstep instead of the customer driving to the garage. Authorized service centres are reliable but inconvenient and selective; local garages are cheaper but compromise on quality, warranty and service experience. G2H bridges that gap.
